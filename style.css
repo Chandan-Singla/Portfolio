@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+*{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.skill-box {
+    /* border: 2px solid black; */
+  background-color: rgb(246, 240, 240);
+  padding: 40px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  }
+  .contact-info {
+    text-align: left;
+}
+
+.contact-item {
+    margin: 10px 0;
+}
+
+.contact-item i {
+    color: #fff;
+    margin-right: 10px;
+}
+
+.contact-item a {
+    color: #fff;
+    text-decoration: none;
+}
+  
+  .contact-item:hover {
+    background-color: #403a3a;
+    color: #fff;
+   ti
+  }
+  
+  .contact-item:hover a {
+    color: #fff;
+  }
+  #projects {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  .project-item {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .project-item h3 {
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .project-item p {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .project-item a {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .project-item a:hover {
+    background-color: #555;
+  }
+  #contact {
+    background-color: #333;
+    color: #fff;
+    padding: 50px 0;
+}
+  
+  
+  
